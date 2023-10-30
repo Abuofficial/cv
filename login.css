@@ -1,0 +1,25 @@
+body
+{
+    background-color: blueviolet;
+}
+.form
+{   
+    float: initial;
+    background-color: aqua;
+    height: 500px;
+    
+}
+h1
+{
+   padding-left: 600px;
+   color:rgb(22, 15, 7) ;
+   font-style: oblique;
+   flex: content;
+}
+.form label
+{
+    padding-left: 600px;
+    font-style: unset;
+    font-stretch: condensed;
+}
+
